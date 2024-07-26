@@ -36,7 +36,7 @@ const Dashboard = () => {
     topics: [],
     sectors: [],
     regions: [],
-    source:[],
+    source:[]
   });
 
   useEffect(() => {
@@ -101,8 +101,6 @@ const Dashboard = () => {
       },
     ],
   };
-
-
 
   return (
     <div>
